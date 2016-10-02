@@ -1,4 +1,4 @@
-# ESP_WROOM_2
+# Type 1 : ESP_WROOM_2 Flashing 
 How to flash the ESP Wroom-2 modules 
 
 ## Download the ESP flashing tools from following link 
@@ -21,5 +21,14 @@ blank.bin : : ADDR (0x7e000)
 
 ##Front side of the ESP Wroom-2 
 
-![1st Step](https://github.com/niwantha33/ESP_WROOM_2/blob/master/PinConfigESP_Wroom.png)
+![2st Step](https://github.com/niwantha33/ESP_WROOM_2/blob/master/PinConfigESP_Wroom.png)
+
+# Type 2 : ESP_WROOM_2 Flashing 
+  Using NodeMcu tool 
+
+![3st Step](https://github.com/niwantha33/ESP_WROOM_2/blob/master/Node_1.png)
+
+# Both methods are ok for flashing of ESP Wroom-2 
+
+![3st Step](https://github.com/niwantha33/ESP_WROOM_2/blob/master/IMG_20160904_200044.jpg)
 
